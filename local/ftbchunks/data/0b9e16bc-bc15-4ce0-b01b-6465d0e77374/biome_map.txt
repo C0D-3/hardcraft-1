@@ -1,0 +1,14 @@
+#0D1 biomeswevegone:amaranth_grassland
+#221 biomeswevegone:araucaria_savanna
+#05B minecraft:bamboo_jungle
+#52D biomeswevegone:baobab_savanna
+#465 biomeswevegone:crag_gardens
+#255 biomeswevegone:ebony_woods
+#69B biomeswevegone:firecracker_chaparral
+#500 biomeswevegone:ironwood_gour
+#3DC minecraft:plains
+#57C biomeswevegone:redwood_thicket
+#5FF minecraft:river
+#3AF minecraft:sparse_jungle
+#09D biomeswevegone:tropical_rainforest
+#30B biomesoplenty:volcanic_plains

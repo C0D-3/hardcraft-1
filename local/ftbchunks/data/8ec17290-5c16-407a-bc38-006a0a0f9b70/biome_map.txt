@@ -1,0 +1,13 @@
+#556 minecraft:beach
+#646 biomesoplenty:dune_beach
+#010 minecraft:forest
+#65C biomesoplenty:lavender_field
+#36F biomesoplenty:lavender_forest
+#79A minecraft:lukewarm_ocean
+#47F biomesoplenty:mediterranean_forest
+#515 biomesoplenty:mystic_grove
+#4F1 minecraft:ocean
+#5FF minecraft:river
+#204 biomesoplenty:rocky_shrubland
+#274 biomesoplenty:scrubland
+#2CF biomesoplenty:shrubland

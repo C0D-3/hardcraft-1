@@ -1,0 +1,1372 @@
+[
+  {
+    "comment": "accessories.key.open_accessories_screen",
+    "translation": "Open Accessories Screen",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "artifacts.key.helium_flamingo.activate",
+    "translation": "Activate Helium Flamingo",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "artifacts.key.night_vision_goggles.toggle",
+    "translation": "Toggle Night Vision Goggles",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "artifacts.key.universal_attractor.toggle",
+    "translation": "Toggle Universal Attractor",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "chunkloaders.keys.open_screen",
+    "translation": "View Chunk Loaders",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "create.keyinfo.",
+    "translation": "create.keyinfo.",
+    "key": "key.keyboard.left.control"
+  },
+  {
+    "comment": "create.keyinfo.rotate_menu",
+    "translation": "create.keyinfo.rotate_menu",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "create.keyinfo.toolbelt",
+    "translation": "create.keyinfo.toolbelt",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "create.keyinfo.toolmenu",
+    "translation": "create.keyinfo.toolmenu",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "framedblocks.key.update_cull",
+    "translation": "Update culling cache",
+    "key": "key.keyboard.f9"
+  },
+  {
+    "comment": "framedblocks.key.wipe_cache",
+    "translation": "framedblocks.key.wipe_cache",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "fullbrightnesstoggle.key.togglebrightness",
+    "translation": "Toggle Full Brightness",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "gui.xaero_pac_key_open_menu",
+    "translation": "Open Parties and Claims Menu",
+    "key": "key.keyboard.apostrophe"
+  },
+  {
+    "comment": "iris.keybind.reload",
+    "translation": "Reload Shaders",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "iris.keybind.shaderPackSelection",
+    "translation": "Shaderpack Selection Screen",
+    "key": "key.keyboard.o"
+  },
+  {
+    "comment": "iris.keybind.toggleShaders",
+    "translation": "Toggle Shaders",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "iris.keybind.wireframe",
+    "translation": "Wireframe (SP only)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "jecalculation.key.gui_craft",
+    "translation": "Open crafting calculator",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "jecalculation.key.gui_math",
+    "translation": "Open math calculator",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keu.l2mods.alt",
+    "translation": "Alternative Selector",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "keu.l2mods.shift",
+    "translation": "Hold Selection",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.advanced_ae.pattern_encoder_action",
+    "translation": "Open Advanced Pattern Encoder",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.advanced_ae.pick_craft",
+    "translation": "Attempt crafting targeted block",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.advanced_ae.portable_workbench",
+    "translation": "Open Portable Workbench",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.advanced_ae.quantum_armor_config",
+    "translation": "Open Quantum Armor Configuration",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.advanced_ae.quantum_auto_stock_upgrade",
+    "translation": "Toggle Quantum Armor Auto Stock",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.advanced_ae.quantum_magnet_upgrade",
+    "translation": "Toggle Quantum Armor Magnet",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.advanced_ae.quantum_night_vision_upgrade",
+    "translation": "Toggle Quantum Armor Night Vision",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.advancements",
+    "translation": "Advancements",
+    "key": "key.keyboard.l"
+  },
+  {
+    "comment": "key.ae2.ae2wtlib_magnet",
+    "translation": "Toggle Magnet Card",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.ae2wtlib_restock",
+    "translation": "Toggle Restock",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.guide",
+    "translation": "Open Guide for Items",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.ae2.portable_fluid_cell",
+    "translation": "Open Portable Fluid Cell",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.portable_item_cell",
+    "translation": "Open Portable Item Cell",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.wireless_pattern_access_terminal",
+    "translation": "Open Wireless Pattern Access Terminal",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.wireless_pattern_encoding_terminal",
+    "translation": "Open Wireless Pattern Encoding Terminal",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.wireless_terminal",
+    "translation": "Open Wireless Terminal",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ae2.wireless_transmutation_terminal",
+    "translation": "key.ae2.wireless_transmutation_terminal",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.aether.gravitite_jump_ability.desc",
+    "translation": "Activate Gravitite Jump",
+    "key": "key.keyboard.space"
+  },
+  {
+    "comment": "key.aether.invisibility_toggle.desc",
+    "translation": "Toggle Invisibility",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.aether.open_accessories.desc",
+    "translation": "Open/Close Accessories Inventory",
+    "key": "key.keyboard.i"
+  },
+  {
+    "comment": "key.aether_redux.shoot_fireball.desc",
+    "translation": "Shoot Fireball",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.ars_elemental.open_pouch",
+    "translation": "[Elemental] Open trinkets pouch",
+    "key": "key.keyboard.j"
+  },
+  {
+    "comment": "key.ars_nouveau.familiar_toggle",
+    "translation": "Summon/Dispel Familiar",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.head_curio_hotkey",
+    "translation": "Head Curio Menu",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.ars_nouveau.next_slot",
+    "translation": "(Spell Book) Next Slot",
+    "key": "key.keyboard.x"
+  },
+  {
+    "comment": "key.ars_nouveau.open_book",
+    "translation": "(Spell Book) Open Book",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.ars_nouveau.previous_slot",
+    "translation": "(Spell Book) Previous Slot",
+    "key": "key.keyboard.z"
+  },
+  {
+    "comment": "key.ars_nouveau.qc1",
+    "translation": "Quick Cast Slot 01",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.qc10",
+    "translation": "Quick Cast Slot 10",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.qc2",
+    "translation": "Quick Cast Slot 02",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.qc3",
+    "translation": "Quick Cast Slot 03",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.qc4",
+    "translation": "Quick Cast Slot 04",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.qc5",
+    "translation": "Quick Cast Slot 05",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.qc6",
+    "translation": "Quick Cast Slot 06",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.qc7",
+    "translation": "Quick Cast Slot 07",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.qc8",
+    "translation": "Quick Cast Slot 08",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.qc9",
+    "translation": "Quick Cast Slot 09",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ars_nouveau.selection_hud",
+    "translation": "Toggle Selection HUD",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.attack",
+    "translation": "Attack/Destroy",
+    "key": "key.mouse.left"
+  },
+  {
+    "comment": "key.azurelib.fire",
+    "translation": "Alternate Weapon FIre",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.azurelib.reload",
+    "translation": "Reload Gun/Weapon",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.azurelib.scope",
+    "translation": "Scope Weapon",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "key.back",
+    "translation": "Walk Backwards",
+    "key": "key.keyboard.s"
+  },
+  {
+    "comment": "key.baublemounts.mountsummon",
+    "translation": "Mount Summon",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.botania_corporea_request",
+    "translation": "Corporea Request",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.car_back",
+    "translation": "Backwards",
+    "key": "key.keyboard.s"
+  },
+  {
+    "comment": "key.car_forward",
+    "translation": "Forward",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "key.car_gui",
+    "translation": "Open Car GUI",
+    "key": "key.keyboard.i"
+  },
+  {
+    "comment": "key.car_horn",
+    "translation": "Horn",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.car_left",
+    "translation": "Left",
+    "key": "key.keyboard.a"
+  },
+  {
+    "comment": "key.car_right",
+    "translation": "Right",
+    "key": "key.keyboard.d"
+  },
+  {
+    "comment": "key.car_start",
+    "translation": "Start Car Engine",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.carry.desc",
+    "translation": "Carry",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.cataclysm.ability",
+    "translation": "Cataclysm Ability",
+    "key": "key.keyboard.x"
+  },
+  {
+    "comment": "key.cataclysm.boots_ability",
+    "translation": "Cataclysm Boots Ability",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.cataclysm.chestplate_ability",
+    "translation": "Cataclysm Chestplate Ability",
+    "key": "key.keyboard.y"
+  },
+  {
+    "comment": "key.cataclysm.helmet_ability",
+    "translation": "Cataclysm Helmet Ability",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.center_car",
+    "translation": "Center Car rotation",
+    "key": "key.keyboard.space"
+  },
+  {
+    "comment": "key.chat",
+    "translation": "Open Chat",
+    "key": "key.keyboard.t"
+  },
+  {
+    "comment": "key.cofh.mode_change_decrement",
+    "translation": "Cycle Mode Down",
+    "key": "key.keyboard.b"
+  },
+  {
+    "comment": "key.cofh.mode_change_increment",
+    "translation": "Cycle Mode Up",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.command",
+    "translation": "Open Command",
+    "key": "key.keyboard.slash"
+  },
+  {
+    "comment": "key.corpse.death_history",
+    "translation": "Open Player Death History",
+    "key": "key.keyboard.u"
+  },
+  {
+    "comment": "key.decorative_blocks.switch_item_state",
+    "translation": "Switch item state",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.deep_aether.slider_eye_ability",
+    "translation": "Activate Slider Slam",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "key.deep_aether.stratus_dash_ability.desc",
+    "translation": "Activate Stratus Dash",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.descend",
+    "translation": "key.descend",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.disable_voice_chat",
+    "translation": "Disable Voice Chat",
+    "key": "key.keyboard.n"
+  },
+  {
+    "comment": "key.dragon_change_view",
+    "translation": "Change 3rd person camera for dragon",
+    "key": "key.keyboard.f7"
+  },
+  {
+    "comment": "key.dragon_down",
+    "translation": "Dragon Down",
+    "key": "key.keyboard.x"
+  },
+  {
+    "comment": "key.dragon_fireAttack",
+    "translation": "Dragon Breath",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.dragon_strike",
+    "translation": "Dragon Strike",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.drop",
+    "translation": "Drop Selected Item",
+    "key": "key.keyboard.q"
+  },
+  {
+    "comment": "key.easy_villagers.cycle_trades",
+    "translation": "Cycle Trades",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.easy_villagers.pick_up",
+    "translation": "Pick Up",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.epp.viewpattern",
+    "translation": "View Pattern",
+    "key": "key.keyboard.p"
+  },
+  {
+    "comment": "key.forward",
+    "translation": "Walk Forwards",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "key.ftbchunks.add_waypoint",
+    "translation": "Quick Add Waypoint",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbchunks.claim_manager",
+    "translation": "Open Claim Manager",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbchunks.map",
+    "translation": "Open Map",
+    "key": "key.keyboard.m"
+  },
+  {
+    "comment": "key.ftbchunks.minimap.zoomIn",
+    "translation": "Zoom In Minimap",
+    "key": "key.keyboard.equal"
+  },
+  {
+    "comment": "key.ftbchunks.minimap.zoomOut",
+    "translation": "Zoom Out Minimap",
+    "key": "key.keyboard.minus"
+  },
+  {
+    "comment": "key.ftbchunks.toggle_minimap",
+    "translation": "Toggle Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbchunks.waypoint_manager",
+    "translation": "Waypoint Manager",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbquests.quests",
+    "translation": "Open Quests",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbteams.open_gui",
+    "translation": "Open Teams GUI",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbultimine",
+    "translation": "FTB Ultimine",
+    "key": "key.keyboard.grave.accent"
+  },
+  {
+    "comment": "key.fullscreen",
+    "translation": "Toggle Fullscreen",
+    "key": "key.keyboard.f11"
+  },
+  {
+    "comment": "key.hide_icons",
+    "translation": "Hide Voice Chat Icons",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.hotbar.1",
+    "translation": "Hotbar Slot 1",
+    "key": "key.keyboard.1"
+  },
+  {
+    "comment": "key.hotbar.2",
+    "translation": "Hotbar Slot 2",
+    "key": "key.keyboard.2"
+  },
+  {
+    "comment": "key.hotbar.3",
+    "translation": "Hotbar Slot 3",
+    "key": "key.keyboard.3"
+  },
+  {
+    "comment": "key.hotbar.4",
+    "translation": "Hotbar Slot 4",
+    "key": "key.keyboard.4"
+  },
+  {
+    "comment": "key.hotbar.5",
+    "translation": "Hotbar Slot 5",
+    "key": "key.keyboard.5"
+  },
+  {
+    "comment": "key.hotbar.6",
+    "translation": "Hotbar Slot 6",
+    "key": "key.keyboard.6"
+  },
+  {
+    "comment": "key.hotbar.7",
+    "translation": "Hotbar Slot 7",
+    "key": "key.keyboard.7"
+  },
+  {
+    "comment": "key.hotbar.8",
+    "translation": "Hotbar Slot 8",
+    "key": "key.keyboard.8"
+  },
+  {
+    "comment": "key.hotbar.9",
+    "translation": "Hotbar Slot 9",
+    "key": "key.keyboard.9"
+  },
+  {
+    "comment": "key.hover",
+    "translation": "key.hover",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.immersiveengineering.chemthrowerSwitch",
+    "translation": "Switch Chemthrower Tanks",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.immersiveengineering.magnetEquip",
+    "translation": "Magnetic Shield Glove (doubletap)",
+    "key": "key.keyboard.s"
+  },
+  {
+    "comment": "key.immersiveengineering.railgunZoom",
+    "translation": "Zoom with the Railgun",
+    "key": "key.mouse.middle"
+  },
+  {
+    "comment": "key.industrialforegoing.backpack.desc",
+    "translation": "Open Infinity Backpack",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.inventory",
+    "translation": "Open/Close Inventory",
+    "key": "key.keyboard.e"
+  },
+  {
+    "comment": "key.inventoryhud.openconfig",
+    "translation": "Open config",
+    "key": "key.keyboard.o"
+  },
+  {
+    "comment": "key.inventoryhud.toggle",
+    "translation": "Toggle InventoryHUD on/off",
+    "key": "key.keyboard.i"
+  },
+  {
+    "comment": "key.inventoryhud.toggleall",
+    "translation": "Toggle all HUDs on/off",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.inventoryhud.togglearm",
+    "translation": "Toggle ArmorHUD on/off",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.inventoryhud.togglepot",
+    "translation": "Toggle PotionHUD on/off",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.jump",
+    "translation": "Jump",
+    "key": "key.keyboard.space"
+  },
+  {
+    "comment": "key.l2backpack.open",
+    "translation": "Open backpack on back",
+    "key": "key.keyboard.b"
+  },
+  {
+    "comment": "key.l2mods.down",
+    "translation": "Down",
+    "key": "key.keyboard.down"
+  },
+  {
+    "comment": "key.l2mods.left",
+    "translation": "Left",
+    "key": "key.keyboard.left"
+  },
+  {
+    "comment": "key.l2mods.right",
+    "translation": "Right",
+    "key": "key.keyboard.right"
+  },
+  {
+    "comment": "key.l2mods.swap",
+    "translation": "Swap",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.l2mods.up",
+    "translation": "Up",
+    "key": "key.keyboard.up"
+  },
+  {
+    "comment": "key.left",
+    "translation": "Strafe Left",
+    "key": "key.keyboard.a"
+  },
+  {
+    "comment": "key.loadToolbarActivator",
+    "translation": "Load Hotbar Activator",
+    "key": "key.keyboard.x"
+  },
+  {
+    "comment": "key.minmaxoverlay",
+    "translation": "key.minmaxoverlay",
+    "key": "key.keyboard.o"
+  },
+  {
+    "comment": "key.move_heli_up.desc",
+    "translation": "Move Helicopter Up",
+    "key": "key.keyboard.space"
+  },
+  {
+    "comment": "key.mute_microphone",
+    "translation": "Mute Microphone",
+    "key": "key.keyboard.m"
+  },
+  {
+    "comment": "key.namepain.showCulled",
+    "translation": "Show Culled Names",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.nextexternalmove",
+    "translation": "key.nextexternalmove",
+    "key": "key.keyboard.b"
+  },
+  {
+    "comment": "key.nextpokemon",
+    "translation": "key.nextpokemon",
+    "key": "key.keyboard.down"
+  },
+  {
+    "comment": "key.open_convenient_gui",
+    "translation": "Open Curios Container Screen",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.pcrename",
+    "translation": "key.pcrename",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.pcsearch",
+    "translation": "key.pcsearch",
+    "key": "key.keyboard.s"
+  },
+  {
+    "comment": "key.pcwallpaper",
+    "translation": "key.pcwallpaper",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "key.pickItem",
+    "translation": "Pick Block",
+    "key": "key.mouse.middle"
+  },
+  {
+    "comment": "key.pixelmonoptions",
+    "translation": "key.pixelmonoptions",
+    "key": "key.keyboard.p"
+  },
+  {
+    "comment": "key.plane_drop_payload.desc",
+    "translation": "Drop Payload",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.plane_inventory_open.desc",
+    "translation": "Open Plane Inventory",
+    "key": "key.keyboard.x"
+  },
+  {
+    "comment": "key.plane_pitch_down.desc",
+    "translation": "Plane Pitch Down",
+    "key": "key.keyboard.s"
+  },
+  {
+    "comment": "key.plane_pitch_up.desc",
+    "translation": "Plane Pitch Up",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "key.plane_throttle_down.desc",
+    "translation": "Throttle Down",
+    "key": "key.keyboard.down"
+  },
+  {
+    "comment": "key.plane_throttle_up.desc",
+    "translation": "Throttle Up",
+    "key": "key.keyboard.up"
+  },
+  {
+    "comment": "key.plane_yaw_left.desc",
+    "translation": "Plane Yaw Left",
+    "key": "key.keyboard.left"
+  },
+  {
+    "comment": "key.plane_yaw_right.desc",
+    "translation": "Plane Yaw Right",
+    "key": "key.keyboard.right"
+  },
+  {
+    "comment": "key.playerlist",
+    "translation": "List Players",
+    "key": "key.keyboard.tab"
+  },
+  {
+    "comment": "key.pmmo.addVein",
+    "translation": "Increase Vein Size",
+    "key": "key.keyboard.left.bracket"
+  },
+  {
+    "comment": "key.pmmo.cyclevein",
+    "translation": "Cycle Vein Mode",
+    "key": "key.keyboard.apostrophe"
+  },
+  {
+    "comment": "key.pmmo.openMenu",
+    "translation": "Open Glossary",
+    "key": "key.keyboard.p"
+  },
+  {
+    "comment": "key.pmmo.showList",
+    "translation": "Toggle Skill List",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "key.pmmo.showVein",
+    "translation": "Toggle Vein Gauge",
+    "key": "key.keyboard.tab"
+  },
+  {
+    "comment": "key.pmmo.subVein",
+    "translation": "Decrease Vein Size",
+    "key": "key.keyboard.right.bracket"
+  },
+  {
+    "comment": "key.pmmo.vein",
+    "translation": "Vein Mine Marker",
+    "key": "key.keyboard.grave.accent"
+  },
+  {
+    "comment": "key.pokedex",
+    "translation": "key.pokedex",
+    "key": "key.keyboard.i"
+  },
+  {
+    "comment": "key.pokemonaction",
+    "translation": "key.pokemonaction",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.pokemonexternal",
+    "translation": "key.pokemonexternal",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.previouspokemon",
+    "translation": "key.previouspokemon",
+    "key": "key.keyboard.up"
+  },
+  {
+    "comment": "key.puffish_skills.open",
+    "translation": "Open Skill Tree",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "key.push_to_talk",
+    "translation": "Push to Talk",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.questcycle",
+    "translation": "key.questcycle",
+    "key": "key.keyboard.m"
+  },
+  {
+    "comment": "key.questjournal",
+    "translation": "key.questjournal",
+    "key": "key.keyboard.n"
+  },
+  {
+    "comment": "key.relics.ability_list",
+    "translation": "Show the active abilities HUD",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "key.right",
+    "translation": "Strafe Right",
+    "key": "key.keyboard.d"
+  },
+  {
+    "comment": "key.saveToolbarActivator",
+    "translation": "Save Hotbar Activator",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.screenshot",
+    "translation": "Take Screenshot",
+    "key": "key.keyboard.f2"
+  },
+  {
+    "comment": "key.securitycraft.cameraActivateNightVision",
+    "translation": "Toggle Night Vision",
+    "key": "key.keyboard.n"
+  },
+  {
+    "comment": "key.securitycraft.cameraEmitRedstone",
+    "translation": "Toggle Redstone Output",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.securitycraft.cameraZoomIn",
+    "translation": "Zoom In",
+    "key": "key.keyboard.equal"
+  },
+  {
+    "comment": "key.securitycraft.cameraZoomOut",
+    "translation": "Zoom Out",
+    "key": "key.keyboard.minus"
+  },
+  {
+    "comment": "key.securitycraft.setDefaultViewingDirection",
+    "translation": "Set default viewing direction",
+    "key": "key.keyboard.u"
+  },
+  {
+    "comment": "key.sendpokemon",
+    "translation": "key.sendpokemon",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.smoothCamera",
+    "translation": "Toggle Cinematic Camera",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.sneak",
+    "translation": "Sneak",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.socialInteractions",
+    "translation": "Social Interactions Screen",
+    "key": "key.keyboard.p"
+  },
+  {
+    "comment": "key.spartanshields.alt_shield_bash",
+    "translation": "key.spartanshields.alt_shield_bash",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.special_ability",
+    "translation": "Alex\u0027s Caves Special Ability",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.spectateBattle",
+    "translation": "key.spectateBattle",
+    "key": "key.keyboard.y"
+  },
+  {
+    "comment": "key.spectatorOutlines",
+    "translation": "Highlight Players (Spectators)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.sprint",
+    "translation": "Sprint",
+    "key": "key.keyboard.left.control"
+  },
+  {
+    "comment": "key.structurecompass.hide",
+    "translation": "Hide Structure Compass HUD",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.swapOffhand",
+    "translation": "Swap Item With Offhand",
+    "key": "key.keyboard.f"
+  },
+  {
+    "comment": "key.swem.horse.bite",
+    "translation": "Horse Bite",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.swem.horse.camera_lock",
+    "translation": "Camera Lock",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "key.swem.horse.check_speed",
+    "translation": "Check Speed",
+    "key": "key.keyboard.n"
+  },
+  {
+    "comment": "key.swem.horse.decrement",
+    "translation": "Decrement Speed",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.swem.horse.dive_flight",
+    "translation": "Dive Flight",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.swem.horse.increment",
+    "translation": "Increment Speed",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.swem.horse.kick",
+    "translation": "Horse Kick",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.swem.horse.rise_flight",
+    "translation": "Rise Flight",
+    "key": "key.keyboard.space"
+  },
+  {
+    "comment": "key.swem.horse.stomp",
+    "translation": "Horse Stomp",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.swem.horse.toggle_flight",
+    "translation": "Toggle Flight",
+    "key": "key.keyboard.j"
+  },
+  {
+    "comment": "key.swem.horse.toggle_frost_walk",
+    "translation": "Toggle (SWEM) Frost Walk",
+    "key": "key.mouse.middle"
+  },
+  {
+    "comment": "key.swem.horse.toggle_saddlebag_and_bedroll",
+    "translation": "Toggle Saddlebag \u0026 Bedroll",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "key.swem.horse.toggle_wings",
+    "translation": "Toggle Wings",
+    "key": "key.keyboard.period"
+  },
+  {
+    "comment": "key.tctcore.tc_tcore_key",
+    "translation": "TCTcore",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.toastcontrol.clear",
+    "translation": "Clear Active Toasts",
+    "key": "key.keyboard.j"
+  },
+  {
+    "comment": "key.togglePerspective",
+    "translation": "Toggle Perspective",
+    "key": "key.keyboard.f5"
+  },
+  {
+    "comment": "key.toolbelt.cycle.left",
+    "translation": "Cycle Tool Left",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.toolbelt.cycle.right",
+    "translation": "Cycle Tool Right",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.toolbelt.open",
+    "translation": "Swap Tool",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "key.toolbelt.slot",
+    "translation": "Open Belt Slot Inventory",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.trade_cycling.cycle_trades",
+    "translation": "Cycle Trades",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.trainercard",
+    "translation": "key.trainercard",
+    "key": "key.keyboard.u"
+  },
+  {
+    "comment": "key.use",
+    "translation": "Use Item/Place Block",
+    "key": "key.mouse.right"
+  },
+  {
+    "comment": "key.usefulbackpacks.slotmodintegration.open_backpack.description",
+    "translation": "Open backpack",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.utilitix.open_backpack",
+    "translation": "Open Backpack",
+    "key": "key.keyboard.o"
+  },
+  {
+    "comment": "key.voice_chat",
+    "translation": "Voice Chat Menu",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.voice_chat_adjust_volumes",
+    "translation": "Adjust Volumes",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.voice_chat_group",
+    "translation": "Group Management",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.voice_chat_settings",
+    "translation": "Voice Chat Settings",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.voice_chat_toggle_recording",
+    "translation": "Toggle Recording",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.walljump.walljump",
+    "translation": "Wall Jump / Wall Cling",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.whisper",
+    "translation": "Whisper",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.wiki",
+    "translation": "key.wiki",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "keybind.advancedperipherals.description",
+    "translation": "keybind.advancedperipherals.description",
+    "key": "key.keyboard.left.control"
+  },
+  {
+    "comment": "keybind.ironjetpacks.ascend",
+    "translation": "Ascend",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybind.ironjetpacks.decrement_throttle",
+    "translation": "Decrease Throttle",
+    "key": "key.keyboard.comma"
+  },
+  {
+    "comment": "keybind.ironjetpacks.descend",
+    "translation": "Descend",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybind.ironjetpacks.engine",
+    "translation": "Toggle Engine",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "keybind.ironjetpacks.hover",
+    "translation": "Toggle Hover Mode",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "keybind.ironjetpacks.increment_throttle",
+    "translation": "Increase Throttle",
+    "key": "key.keyboard.period"
+  },
+  {
+    "comment": "mininggadgets.text.open_gui",
+    "translation": "Open Mining Gadget Settings",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "placebo.toggleTrails",
+    "translation": "Toggle Supporter Trails",
+    "key": "key.keyboard.keypad.9"
+  },
+  {
+    "comment": "placebo.toggleWings",
+    "translation": "Toggle Supporter Wings",
+    "key": "key.keyboard.keypad.8"
+  },
+  {
+    "comment": "ponder.keyinfo.ponder",
+    "translation": "ponder.keyinfo.ponder",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "quark.emote.cheer",
+    "translation": "quark.emote.cheer",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.clap",
+    "translation": "quark.emote.clap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.facepalm",
+    "translation": "quark.emote.facepalm",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.headbang",
+    "translation": "quark.emote.headbang",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.no",
+    "translation": "quark.emote.no",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.point",
+    "translation": "quark.emote.point",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.salute",
+    "translation": "quark.emote.salute",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.shrug",
+    "translation": "quark.emote.shrug",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.think",
+    "translation": "quark.emote.think",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.wave",
+    "translation": "quark.emote.wave",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.weep",
+    "translation": "quark.emote.weep",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.emote.yes",
+    "translation": "quark.emote.yes",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.autorun",
+    "translation": "quark.keybind.autorun",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.back",
+    "translation": "quark.keybind.back",
+    "key": "key.mouse.4"
+  },
+  {
+    "comment": "quark.keybind.camera_mode",
+    "translation": "quark.keybind.camera_mode",
+    "key": "key.keyboard.f12"
+  },
+  {
+    "comment": "quark.keybind.change_hotbar",
+    "translation": "quark.keybind.change_hotbar",
+    "key": "key.keyboard.z"
+  },
+  {
+    "comment": "quark.keybind.lock_rotation",
+    "translation": "quark.keybind.lock_rotation",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "quark.keybind.narrator_full_readout",
+    "translation": "quark.keybind.narrator_full_readout",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.narrator_readout",
+    "translation": "quark.keybind.narrator_readout",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.patreon_emote.dab",
+    "translation": "quark.keybind.patreon_emote.dab",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.patreon_emote.dance",
+    "translation": "quark.keybind.patreon_emote.dance",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.patreon_emote.exorcist",
+    "translation": "quark.keybind.patreon_emote.exorcist",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.patreon_emote.jet",
+    "translation": "quark.keybind.patreon_emote.jet",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.patreon_emote.tpose",
+    "translation": "quark.keybind.patreon_emote.tpose",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.patreon_emote.zombie",
+    "translation": "quark.keybind.patreon_emote.zombie",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.shift_lock",
+    "translation": "quark.keybind.shift_lock",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.sort_container",
+    "translation": "quark.keybind.sort_container",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.sort_player",
+    "translation": "quark.keybind.sort_player",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.transfer_extract",
+    "translation": "quark.keybind.transfer_extract",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.transfer_insert",
+    "translation": "quark.keybind.transfer_insert",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "quark.keybind.variant_selector",
+    "translation": "quark.keybind.variant_selector",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "webdisplays.key.toggle_mouse",
+    "translation": "webdisplays.key.toggle_mouse",
+    "key": "key.keyboard.r"
+  },
+  {
+    "comment": "zume.zoom",
+    "translation": "Zoom",
+    "key": "key.keyboard.z"
+  },
+  {
+    "comment": "zume.zoom_in",
+    "translation": "Zoom In",
+    "key": "key.keyboard.equal"
+  },
+  {
+    "comment": "zume.zoom_out",
+    "translation": "Zoom Out",
+    "key": "key.keyboard.minus"
+  }
+]
